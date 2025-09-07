@@ -1,6 +1,0 @@
-
-NEED OPEN CV INSTALLED . AND IT SHOULD BE VERSION 4.6.0
-
-cd C:\Users\Personal Desk\Desktop\BADAPPLE\target\classes
-
-java -Djava.library.path="F:\OPEN CV\opencv\build\java\x64" -cp "C:\Users\Personal Desk\Desktop\BADAPPLE\target\classes;C:\Users\Personal Desk\.m2\repository\org\openpnp\opencv\4.6.0-0\opencv-4.6.0-0.jar" org.example.Main
